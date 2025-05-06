@@ -27,18 +27,11 @@ Before running this project, you need to have the following installed:
 - **Eclipse IDE** (for development)
 - **Maven** (for building the project)
 
-### Clone the Repository
-
-Clone this repository to your local machine using:
-
-```bash
-git clone https://github.com/KumaranMJa/OnlineClothingApp.git
-
 ### API Testing Screenshots
 
 #### Create Product API
-![Create Product](postman-screenshots/create-product.png)
+![Create Product](postman-testing-images/add-product.png)
 
 #### Get All Products API
-![Get Products](postman-screenshots/get-products.png)
+![Get Products](postman-testing-iamges/get-products.png)
 

@@ -32,4 +32,13 @@ Before running this project, you need to have the following installed:
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/yourusername/clothing-store-backend.git
+git clone https://github.com/KumaranMJa/OnlineClothingApp.git
+
+### API Testing Screenshots
+
+#### Create Product API
+![Create Product](postman-screenshots/create-product.png)
+
+#### Get All Products API
+![Get Products](postman-screenshots/get-products.png)
+

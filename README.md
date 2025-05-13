@@ -1,5 +1,5 @@
 # Online Clothing Store Backend
-
+>>Just pushed Prduct Module, Yet to commit many modules related to project<<
 This is the backend for an **Online Clothing Store** application built with **Spring Boot**, **Spring MVC**, **Spring Data JPA**, **Hibernate**, and **MySQL**. The backend provides REST APIs to manage products, users, and the store.
 
 ## Technologies Used
@@ -30,8 +30,17 @@ Before running this project, you need to have the following installed:
 ### API Testing Screenshots
 
 #### Create Product API
-![Create Product](postman-testing-images/add-product.png)
+![Create Product](postman_api_testing_images/ADD_PRODUCT.png)
 
 #### Get All Products API
-![Get Products](postman-testing-iamges/get-products.png)
+![Get Products](postman_api_testing_images/GET_PRODUCT.png)
+
+#### Update All Products API
+![Get Products](postman_api_testing_images/UPDATE_PRODUCT.png)
+
+#### Delete All Products API
+![Get Products](postman_api_testing_images/DELETE_PRODUCT.png)
+
+#### Get Product by ID Products API
+![Get Products](postman_api_testing_images/GET_PRODUCT_BY_ID.png)
 
